@@ -35,6 +35,7 @@ Sunstone
 
 - **Status Datatable**, intuitive form for view the resource states. :ref:`New marks <suns_status>`.
 
+|status_vms|
 
 - **New dashboard**, intuitive, fast and light. The new dashboard will perform better on large deployments.
 
@@ -57,3 +58,5 @@ Core
 
 .. |sunstone_dashboard| image:: /images/sunstone_dashboard.png
 .. |sched_actions| image:: /images/sched_actions.png
+.. |status_vms| image:: /images/sunstone_status_vms.png
+
