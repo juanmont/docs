@@ -160,6 +160,19 @@ These labels are defined in ``/etc/one/sunstone-views.yaml``, you can separate t
 
 .. _suns_views_define_new:
 
+================================================================================
+Status
+================================================================================
+
+We have added a new way to view the different states of the resources that have states. Now the users can see very fast who is the resource state in the datatable view.
+A simple mark in the view of Datatable with different colors, will allow to see in a simple way what is the state of the resources and if these resources are blocked or not.
+
+|status_vms|
+
+when you lock a resource, the mark is the next.
+
+|status_vms_lock|
+
 Defining a New OpenNebula Sunstone View or Customizing an Existing one
 ================================================================================
 
@@ -470,3 +483,5 @@ The actions available for a given VM can be customized and extended by modifying
 .. |sunstone_yaml_columns1| image:: /images/sunstone_yaml_columns1.png
 .. |sunstone_yaml_columns2| image:: /images/sunstone_yaml_columns2.png
 .. |customizecloudview| image:: /images/customizecloudview.png
+.. |status_vms| image:: /images/sunstone_status_vms.png
+.. |status_vms_lock| image:: /images/sunstone_status_vms_lock.png
