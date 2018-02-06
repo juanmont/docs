@@ -33,6 +33,9 @@ Scheduler
 Sunstone
 --------------------------------------------------------------------------------
 
+- **Status Datatable**, intuitive form for view the resource states. :ref:`New marks <suns_status>`.
+
+
 - **New dashboard**, intuitive, fast and light. The new dashboard will perform better on large deployments.
 
 |sunstone_dashboard|

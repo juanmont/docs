@@ -158,13 +158,14 @@ These labels are defined in ``/etc/one/sunstone-views.yaml``, you can separate t
             - default
 
 
-.. _suns_views_define_new:
+.. _suns_status:
 
 ================================================================================
 Status
 ================================================================================
 
-We have added a new way to view the different states of the resources that have states. Now the users can see very fast who is the resource state in the datatable view.
+
+We have added a new way to view the different states of the resources that have states. Now the users can see very fast which is the resource state in the datatable view.
 A simple mark in the view of Datatable with different colors, will allow to see in a simple way what is the state of the resources and if these resources are blocked or not.
 
 |status_vms|
@@ -172,6 +173,8 @@ A simple mark in the view of Datatable with different colors, will allow to see 
 when you lock a resource, the mark is the next.
 
 |status_vms_lock|
+
+.. _suns_views_define_new:
 
 Defining a New OpenNebula Sunstone View or Customizing an Existing one
 ================================================================================
